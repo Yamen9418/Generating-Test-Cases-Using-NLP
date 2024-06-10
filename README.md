@@ -20,4 +20,4 @@ BLEU score achieved with our best approach is 32.93, which also corresponded
 to the highest human evaluation score 3.71. This is not far from the reference
 value 4.68 of being humanly written and undergoing a review process.
 
-![Pipeline][https://github.com/Yamen9418/Generating-Test-Cases-Using-NLP/blob/main/pipeline-1.png]
+![Pipeline](https://github.com/Yamen9418/Generating-Test-Cases-Using-NLP/blob/main/pipeline-1.png)
