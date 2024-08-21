@@ -1,4 +1,4 @@
-# Master Thesis "Generating-Test-Cases-Using-NLP"
+# Master Thesis "Generating-Test-Cases-Using-NLP" https://lup.lub.lu.se/student-papers/search/publication/9168588
 ## Evaluating LLMs for Automated Test Case Generation 
 
 # Abstract
